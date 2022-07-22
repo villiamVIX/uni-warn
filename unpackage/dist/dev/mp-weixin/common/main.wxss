@@ -1,0 +1,7 @@
+
+page {
+	-webkit-text-size-adjust: 100% !important;
+}
+
+/*每个页面公共css */
+

@@ -1,0 +1,31 @@
+.group_2 {
+  width: 750rpx;
+  margin-bottom: 1rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.group_2 image {
+  margin-top: 151rpx;
+  width: 128rpx;
+  height: 128rpx;
+  margin-bottom: 93rpx;
+}
+.group_2 .text_6 {
+  color: #000000;
+  font-family: PingFangSC-Semibold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 40rpx;
+  font-size: 40rpx;
+  font-weight: 600;
+}
+.group_2 .text_7 {
+  font-size: 28rpx;
+  white-space: nowrap;
+  margin-top: 720rpx;
+  font-weight: 500;
+  color: #AFAFAF;
+  line-height: 40rpx;
+}
+
